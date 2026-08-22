@@ -8,6 +8,6 @@ I am a final-year Electronics and Communication Engineering student focused on V
 I am actively building hands-on experience with Verilog HDL, Synopsys, Cadence, Xilinx Vivado, RTL verification, synthesis, and semiconductor design workflows.
 
 📄 View My Resume
-👉 📥[ Click Here to View / Download My Resume](Kowshin's Updated Resume.pdf)
+👉 📥[ Click Here to View / Download My Resume](Kowshin-Updated-Resume.pdf)
 
 Updated Resume | 2026
