@@ -1,2 +1,13 @@
-# Kowshin-s-Resume
-VLSI &amp; Embedded Systems Engineer Resume — RTL Design, ASIC Design, Verilog HDL, Verification, Synthesis, Physical Design, Embedded C, ESP32 &amp; IoT.
+👋 Kowshin V
+Aspiring VLSI Engineer | RTL Design | Verilog HDL | ASIC | FPGA
+
+Welcome to my resume repository.
+
+I am a final-year Electronics and Communication Engineering student focused on VLSI, RTL Design, Digital Design, ASIC, FPGA, and Embedded Systems.
+
+I am actively building hands-on experience with Verilog HDL, Synopsys, Cadence, Xilinx Vivado, RTL verification, synthesis, and semiconductor design workflows.
+
+📄 View My Resume
+👉 📥 Click Here to View / Download My Resume
+
+Updated Resume | 2026
